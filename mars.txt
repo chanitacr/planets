@@ -1,3 +1,5 @@
 Mars:
 mars is red
 and dry (but it once has water)
+its next to Earth
+but far from Pluto
